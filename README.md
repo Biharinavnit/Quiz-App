@@ -1,28 +1,17 @@
 # Quiz-App
 ✅ Project overview
-
 🧩 Features
-
 🖥️ Technologies used
-
 🚀 How to run
-
 📸 Screenshots
 
-🧠 Optional section for LeetCode/algorithm challenges
 
-👨‍💻 Author credit
-
-✅ README.md for Your Quiz App Project
-markdown
-Copy
-Edit
 # 🎯 Advanced Quiz App
 
 An interactive, visually engaging **Quiz App** built using **HTML, CSS, and JavaScript**. This app allows users to answer multiple types of questions (MCQs, True/False, Input-based), shows a timer for each question, and stores high scores using browser local storage.
 
 
-<img src="quiz app image.jpeg.png" alt="Quiz App Preview" width="500"/>
+<img src="quiz app image.jpeg.png" alt="Quiz App Preview" width="500" height ="500"/>
 
 
 ---
