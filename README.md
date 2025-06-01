@@ -11,7 +11,7 @@
 An interactive, visually engaging **Quiz App** built using **HTML, CSS, and JavaScript**. This app allows users to answer multiple types of questions (MCQs, True/False, Input-based), shows a timer for each question, and stores high scores using browser local storage.
 
 
-<img src="quiz app image.jpeg.png" alt="Quiz App Preview" width="500" height ="500"/>
+<img src="quiz app image.jpeg.png" alt="Quiz App Preview" width="500"/>
 
 
 ---
